@@ -7,5 +7,6 @@ public class Cat {
     }
     public static void go(){
         System.out.println("It's time to sleep");
+        System.out.println("hurry up");
     }
 }
